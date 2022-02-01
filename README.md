@@ -10,3 +10,5 @@ The Western Governors University Parcel Service (WGUPS) needs to determine an ef
 
 
 Your task is to determine an algorithm, write code, and present a solution where all 40 packages will be delivered on time while meeting each package’s requirements and keeping the combined total distance traveled under 140 miles for both trucks. The specific delivery locations are shown on the attached “Salt Lake City Downtown Map,” and distances to each location are given in the attached “WGUPS Distance Table.” The intent is to use the program for this specific location and also for many other cities in each state where WGU has a presence. As such, you will need to include detailed comments to make your code easy to follow and to justify the decisions you made while writing your scripts.
+
+![image](https://user-images.githubusercontent.com/84547210/151918125-db6764ba-8ad8-4769-8883-48e4df1a921c.png)
